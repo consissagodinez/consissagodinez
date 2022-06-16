@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @consissagodinez
+- 👀 I’m interested in ...DEV, PHP, Vue, Vuex, DevOps, Docker, Linux, AWS, TDD, Node
+- 🌱 I’m currently learning ... Ruby
